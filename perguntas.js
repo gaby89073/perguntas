@@ -1,40 +1,61 @@
 criaCartao(
-    'Programação',
-    'O que é HTML?',
-    'O HTML é uma linguagem de programação'
+    'Geografia',
+    'Qual é o único continente onde o inglês não é língua oficial em nenhum país?',
+    'Antártica'
 )
 criaCartao(
     'Geografia',
-    'Qual a capital da Argentina?',
-    'A capital da Argentina é Buenos Aires'
+    'qual o maior deserto do mundo?',
+    'Deserto da Antártica'
 )
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'matemática',
+    'quanto é 8x7?',
+    '56'
 )
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'matemática',
+    'Qual a raiz quadrada de 16?',
+    '4'
 )
 criaCartao(
     'Matemática',
-    'O que é uma equação algébrica?',
-    'Uma equação algébrica é uma operação matemática que contém números e letras'
+    'quanto é 189 dividido por 9?',
+    '21'
 )
 criaCartao(
     'Conhecimentos gerais',
     'Quem inventou a lâmpada?',
-    'O inventor da lâmpada foi Thomas Edson'
+    'Thomas Edson'
 )
 criaCartao(
-    'Bíblico',
-    'Qual foi nome do homem que foi engolido por um peixe grande?',
-    'O homem que foi engolido por um peixe grande foi Jonas'
+    ' conhecimentos gerais',
+    'quem é conhecido como "o rei da música brasileira"?',
+    'Roberto Carlos'
 )
 criaCartao(
-    'Matemática',
-    'Qual o nome da operação utilizada para resolver equações do 1º grau?',
-    'Para resolver equações de 1º grau utilizamos a operação inversa'
+    ' geografia',
+    'qual a capital do Japão',
+    'Tóquio'
 )
+criaCartao(
+    'geografia',
+    'qual é o rio mais longo do mundo?',
+    'Rio nilo'
+)
+criaCartao(
+    'biologia',
+    'qual a principal função dos glóbulos vermelhos?',
+    'transportar oxigênio'
+)
+criaCartao(
+    'história',
+    'qual foi o primeiro homem a pisar na Lua?',
+    'Neil Armstrong '
+)
+criaCartao(
+    'história',
+    'qual foi o primeiro presidente negro do Brasil?',
+    'Nilo Peçanha'
+)
+
